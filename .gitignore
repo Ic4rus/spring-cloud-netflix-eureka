@@ -1,0 +1,9 @@
+eureka-client/.mvn/
+eureka-client/mvnw
+eureka-client/mvnw.cmd
+eureka-server/.mvn/
+eureka-server/mvnw
+eureka-server/mvnw.cmd
+feign-client/.mvn/
+feign-client/mvnw
+feign-client/mvnw.cmd
